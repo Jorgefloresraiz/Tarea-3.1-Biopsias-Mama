@@ -1,0 +1,16 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.14.4, pytest-9.1.1, pluggy-1.6.0 -- /Users/yero/Downloads/Tarea_3_1/.venv/bin/python
+rootdir: /Users/yero/Downloads/Tarea_3_1
+plugins: anyio-4.14.2
+collecting ... collected 8 items
+
+test_app.py::test_caracteristicas_finitas_y_formula PASSED               [ 12%]
+test_app.py::test_predictores_excluyen_fuga_y_objetivos PASSED           [ 25%]
+test_app.py::test_predecir_caso_etiquetas_validas PASSED                 [ 37%]
+test_app.py::test_validacion_rechaza_nulos_e_infinitos[nan] PASSED       [ 50%]
+test_app.py::test_validacion_rechaza_nulos_e_infinitos[inf] PASSED       [ 62%]
+test_app.py::test_validacion_rechaza_nulos_e_infinitos[-inf] PASSED      [ 75%]
+test_app.py::test_refactor_conserva_predicciones_y_metricas[False] PASSED [ 87%]
+test_app.py::test_refactor_conserva_predicciones_y_metricas[True] PASSED [100%]
+
+============================== 8 passed in 2.88s ===============================

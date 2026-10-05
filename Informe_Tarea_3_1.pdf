@@ -1,0 +1,261 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Author (Jorge Flores Gonzalez)
+/Title (Diagn\363stico y correcci\363n de una aplicaci\363n de clasificaci\363n)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 3
+/Kids [ 4 0 R 12 0 R 15 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 2760
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 534 756 Tm (1) Tj T* ET
+q
+1 0 0 1 78 690 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F3 12 Tf 24 TL (Diagn\363stico y correcci\363n de una aplicaci\363n de clasificaci\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 660 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F2 12 Tf 24 TL 36 0 Td (Atlantis University \267 MAI 540 \267 Tarea 3.1 \267 4 de octubre de 2026) Tj T* -36 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 636 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F3 12 Tf 24 TL (Diagn\363stico) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 510 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 108 Tm /F2 12 Tf 24 TL 36 0 Td (Se revis\363 la aplicaci\363n educativa de biopsias de mama antes de corregirla. Su flujo) Tj T* -36 0 Td (carga 569 observaciones, agrega columnas sint\351ticas, construye una caracter\355stica y entrena) Tj T* (una regresi\363n log\355stica. La copia recibida fallaba primero con NameError: una celda llamaba a) Tj T* (construir_caracteristicas antes de definirla. Mover ese diagn\363stico despu\351s de las definiciones) Tj T* (permiti\363 reproducir el ValueError por valores infinitos previsto en la consigna.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 366 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 132 Tm /F2 12 Tf 24 TL 36 0 Td (Para el fallo num\351rico se contrastaron dos hip\363tesis con asistencia de IA: H1, las) Tj T* -36 0 Td (columnas originales ya conten\355an valores no finitos; H2, la funci\363n de ingenier\355a los) Tj T* (introduc\355a. La validaci\363n previa no encontr\363 problemas en textura y biopsias previas. Despu\351s) Tj T* (de dividir, la captura de Colab registr\363 141 infinitos, todos con cero biopsias previas. Se) Tj T* -0.08 Tw (descart\363 H1 para las columnas revisadas y se confirm\363 H2. Ese conteo pertenece a la ejecuci\363n) Tj T* 0 Tw (diagn\363stica: cada llamada al generador aleatorio global cambia los valores sint\351ticos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 156 Tm /F2 12 Tf 24 TL 36 0 Td (Para la fuga se contrast\363 una asociaci\363n predictiva disponible antes del diagn\363stico con) Tj T* -36 0 Td (una variable construida a partir de la respuesta. La inspecci\363n del c\363digo confirm\363 la segunda) Tj T* (explicaci\363n: sesiones_tratamiento_programadas asigna de tres a ocho sesiones a malignos y) Tj T* (cero a benignos. No es una medici\363n previa independiente. La explicaci\363n de predictor) Tj T* (leg\355timo se descart\363 por su procedencia, no solo por la correlaci\363n. Esta interpretaci\363n se) Tj T* (document\363 al revisar la evidencia, sin atribuirla a una hip\363tesis personal registrada) Tj T* (previamente.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 108 687 Tm
+(Jorge Flores Gonzalez) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1454
+>>
+stream
+Gat=*bAJ7X']&X:mO!H^fMg$^P3jBM`,QS^:c,T,Q%=JF>T%WCUeGf6gL&iZWKH8[Q@d\>p#(qpgul4!BoH,]hfVH]EDF:J<`3)JHq@mJ1c55+Qh-ub?G3pV%M4i8U"NsKo8Z;j>FOHtr"n%,GI6$X4/M20n6g+'f>>dRKQ5$#^f1h<<TY0)p^gPCF'VRWpC-m+?JiRpb3;4e[<Xi0f(enPcfQg=Y*]93\$G9jW9Cga<R,:.YtIc,WFb6Sj&G=HBb$_8psM62d%r%:>rSV1]u@8aMXHc&J`Fc,P:b&%8!D01O/0II*:=Q\SsD\\]&"o_4I.@1L5#/uBN.*KBupUX#TFC@U`L5t3,6^OBha*a&Z2K9h$=;\m"V/F\%Pfb<Q#CuHX0Dog*Cf7cH@A=hZ-^?#NE!*Dd(\kJj/59/aIk<Ua6m;GY"Bd.ELM/;_0!f(?hT7-M^aT,0LMNp5_5:6KN(AJ[f8`5pb&!`7W7/Mn$9gn!R4->GG+$"-Tr0hef?U$9+L=&cSgM#>:$L"ItatB4U;&&mIFn!"SKDjs7ci%]7E[''!PQUNU?r*^=FL6A/K^3Q*(Z?M+^WNE]R$`"Rm?^"PkE=mD3Ujp;R'a+nR0aLKg>Q$6hK3EO:f8fVDZ!aUk]2W%1hZ)e")M^V[<K9:SL^FW.0p"SJ&"#OZ@s6-Ys>/69+TFY5$XRr:K@24)pjN9_1&-<.`?$NCcq[KL&5's+.F2O8G3i\O`0r<Q,2(h!8oWlZ4D67F)bo9Sgh`.ISC#8Oih%>DF8@K#X)tr;&#QI&;.-Y?^L<o+&,ag;Qn9[o*W>Q4A%./&IXfq\._jReIj)6#YQ'4,;12F8Wm)MFqjYXIDZ%liL@b-e:?DE"#(6a4Xh7Sb!L%%2'Di]b^rH%&(*u31#1Hh!VQEKf4GZYmIPqOeK\/l_3&uWu?&c\q#=$(+MD7kLE5RISjZ?X`afI9Z2r&CUO6F!Nr_*Pbm9X*7Wd3GMnNTF6k486]K1cVA9d6-srED]GL+=Pk<mOM6]nb]15kV#[XX@4<`#J.R_oeK%eVU*UeeYG0q5uk]=GDb=2L)ms@hRU]F>D'bUe^L^b&O/CWON\=XUMNu`^c7Y0g=)Dm4F:[I-oa[9Vk*go0Zj./$h(jlOcVqa=\tuG@?<c!a)s3RAmmA;ap42&lK#]1d3jrAq$EsR*P2@K)G<(NI%M7J*ip*Eg>:ZZ__ap*4k$bfAoBGQ/r^#r,6J,fY%L3%L,q_'(*Jt"!pcCIr:#QOHs&$]n^%m0SoPFgR\Hn@'_HBY1>F!Wb8B=FdlPG+WZ`+0)c&-Y>O<X)X<'mhQg7EP`r^mGrlh,FpR-_tZ@pIRM?[J!a(12]0$5BW.dXYr-(gFWIo*_26_<NamWuDr8A3rO=rPUG]'GbF^'1Gpd;mstgZ7iNFRO/maC.Mt25<Bqhm#<m\RPg&\?k\F>,.jB!Cd).I/~>
+endstream
+endobj
+14 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1460
+>>
+stream
+Gau0BgMRrh&:Ml+bbJ(g/$3]TPGbd,J-&3%VF$m`(_i<?e)lg/?;s!nT/58\A^o6t0/+MQ]>HWbB?hL.U`"X(r$`SZT=6ZU>Z*S[m@MI3Z)$bE?#AK\kOUX)Q[ObA@S%B:2/O;$/DekLT!gk'aQ'lUiaP:@9?+fS=aoN!is`8a^B)cW8"+(\aZ$UD1-2VR$`S%[l\20JC4/uA&WVs%_p9j?eTuKRD78]ek-*\YCV8D&2#1F>FB6N)OE;%'=2Niq,.^%VOLA>-8!P90UK86")HSBJ$Mn;.,+AuB*THbuj[2<CeXhgEX`md.MNXf#KLtIOHfms`[73e$otcbUZG80R5(tESdZ?:0kWL+>k6q,9]Z<Nt8d%31/=%U6H42cIO@Cb$/5!*3ASg->g,#_5,+ML\I+1[I$I;in'tjtY>oBq#Wh"2A-mV@BCEOib',6Zqn@9-'gW8FO80J/j-OZ6AiaU7MC:mX)TaDELHb7b0%9eFZc'X*)dlNO:d2sU,CG[,O&^)=`gCZm1/")cb3gU1/^p)?g-fHd-l=LWc;Z^)Ss-5j`5'(_n<K]f1jIIME!_Ra8kUQLJ71e6.R%G1a%;;](XdE,Pl_&VH,6o&OHVWRiAAhi/!iEeiFcEglFV$#g,gXU:bsK5\O[>k:^pmdg1uN#6.DD6J,WSac8X%$dH:48<A\#BSYA!e\:%kP%^i6o4Pqa[R7uj')#,@k^8>+'8+Nof:?DnSAp.RS>*.:L1iieoY]!`)Qd9rO7f75nl1dKAFQfW7MTc!r_X7[ca<<F^DELT&9%#]uZcjIZd>_>c)F\E_oOE]]2?Ht4`bLsCX,?^gK+]$)XX6R?@-Zq5[=J+);B7k]7Rqi_adcfCm"*mQYrmD79>JVf]Sb1de@!>J=IrRgA+%mg22me/jjh#=OITTL1B?'PG+h?qi?GgT`<W&^M\6^h$3I0I@g'K"*<)l6907F;h;W,=ID<Wn(.]n#no@/&)HYqD@G`L3$.%T*hlj>c$VWMKq.Qtpgpr*UQ#TAhso6DKjngL^5_Ul.'\&"/-_ZZV>/st-S<ui%7L^A37,X]@aS+jIL:GH(F0Tu=YE.QQo?TInI`QgkO0_s#Fd)`5-+(1<mcm5.N9_\l<SVJ\Uf($hjc;:"^i;_njK9N-^&KB#RS&XQ%5WW[j#XZ.VM]bCr%at(Cl_ffI!CQ0(?QFl*8<r>26U_4h;rXKd('1_\URS[c#qWsX-!8Flfj3H-oAnFbTCp<eE^JW@"Xb=E5+coA]OrO#%$f0b8H#4A\P^4"fa$/-X#q)91Vq,G3#=OB$d'2X5;2ooP@%SD5X)<1HXR=>B.LD'4B5do!r^b8/QI;$]Dt`@BP-&9],9;l@6-QSUi=&>6:s>7VD;Z;%Tp\UCs4=tb15YSARtNN,M.sH=3GN^L6r%NrBFs9f0mK%:2Bbli^Hhs1d#kG7U%bJ+'#t)r<>jcmK`Me9Y1~>
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000167 00000 n 
+0000000240 00000 n 
+0000000289 00000 n 
+0000000556 00000 n 
+0000003368 00000 n 
+0000003475 00000 n 
+0000003582 00000 n 
+0000003691 00000 n 
+0000003800 00000 n 
+0000003909 00000 n 
+0000004020 00000 n 
+0000004212 00000 n 
+0000005759 00000 n 
+0000005823 00000 n 
+0000006015 00000 n 
+trailer
+<<
+/Size 17
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+7568
+%%EOF
